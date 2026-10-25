@@ -1,0 +1,2368 @@
+Uri: https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzIYGnbKX9Rlk.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmmono\v16\aFTR7PB1QTsUX8KYvumzIYGnbKX9Rlk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-o9YetbYf4VllXuA.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmmono\v16\aFTT7PB1QTsUX8KYth-o9YetbYf4VllXuA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW32RmYJpso5.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm32RmYJpso5.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm32RmYJpso5.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm32RmYJpso5.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm32RmYJpso5.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm32RmYJpso5.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thS2f3ZGMZpg.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thS2f3ZGMZpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthS2f3ZGMZpg.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthS2f3ZGMZpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhS2f3ZGMZpg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRR232VGM.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRR232VGM.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW32.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRSW32.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthS2f3ZGMZpg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\05KsVHGDmqXSBXM4yRZ65P8i0s.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\1K3W8DizY3v4emK8Mb08YHxTbs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/21KP6ToyH75cWFLnyUEbhFqBl0.mp4
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\21KP6ToyH75cWFLnyUEbhFqBl0.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\2A4Xx7CngadFGlVV4xrO06OBHY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\3ZmXbBKToJifDV9gwcifVd1tEY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/4YiZbnDd5QtYbGCSdEagKMMqTo.mp4
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\4YiZbnDd5QtYbGCSdEagKMMqTo.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\5HcVoGak8k5agFJSaKa4floXVu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/6FI2EneKzM3qBy5foOZXey7coCA.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\6FI2EneKzM3qBy5foOZXey7coCA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\867QObYax8ANsfX4TGEVU9YiCM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\b8ezwLrN7h2AUoPEENcsTMVJ0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\cdAe8hgZ1cMyLu9g005pAW3xMo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\CfMzU8w2e7tHgF4T4rATMPuWosA.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\cugnVhSraaRyANCaUtI5FV17wk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\DOfvtmE1UplCq161m6Hj8CSQYg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\efTfQcBJ53kM2pB1hezSZ3RDUFs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\FNfhX3dt4ChuLJq2PwdlxHO7PU.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fuyXZpVvOjq8NesCOfgirHCWyg.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\fuyXZpVvOjq8NesCOfgirHCWyg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gcnfba68tfm7qAyrWRCf9r34jg.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\gcnfba68tfm7qAyrWRCf9r34jg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\GIryZETIX4IFypco5pYZONKhJIo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gOl6ma0XSUUDWCAZbTBcqO6Bgmg.mp4
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\gOl6ma0XSUUDWCAZbTBcqO6Bgmg.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\H89BbHkbHDzlxZzxi8uPzTsp90.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\ia3uin3hQWqDrVloC1zEtYHWw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\ky8ovPukK4dJ1Pxq74qGhOqCYI.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\mvNEIBLyHbscgHtwfsByjXUz3XY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\pKRFNWFoZl77qYCAIp84lN1h944.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/rZ5DdENNqIdFTIyQQiP5isO7M.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\rZ5DdENNqIdFTIyQQiP5isO7M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\syRNPWzAMIrcJ3wIlPIP43KjQs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\tKtBcDnBMevsEEJKdNGhhkLzYo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\tUSCtfYVM1I1IchuyCwz9gDdQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\u6gJwDuwB143kpNK1T1MDKDWkMc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\VgYFWiwsAC5OYxAycRXXvhze58.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\vvNSqIj42qeQ2bvCRBIWKHscrc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\vxBnBhH8768IFAXAb4Qf6wQHKs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/wK5EtPXcOfy4u5gT6eTLpz0Y.mp4
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\wK5EtPXcOfy4u5gT6eTLpz0Y.mp4
+Content Type: video/mp4
+
+Uri: https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\WZ367JPwf9bRW6LdTHN8rXgSjw.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\assets\zSsEuoJdh8mcFVk976C05ZfQr8.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/0IMXxHD51HjdN3yFLb60cjiJr4.jpg?scale-down-to=1024&width=2000&height=859
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\0IMXxHD51HjdN3yFLb60cjiJr4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/0IMXxHD51HjdN3yFLb60cjiJr4.jpg?scale-down-to=512&width=2000&height=859
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\0IMXxHD51HjdN3yFLb60cjiJr4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/0IMXxHD51HjdN3yFLb60cjiJr4.jpg?width=2000&height=859
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\0IMXxHD51HjdN3yFLb60cjiJr4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/0ttlDt9HGPmcJkCd7p920JSTZEE.svg?width=167&height=41
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\0ttlDt9HGPmcJkCd7p920JSTZEE.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/2lxyjVeXpNVDb9GVHIZIrF4TgR4.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\2lxyjVeXpNVDb9GVHIZIrF4TgR4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/2lxyjVeXpNVDb9GVHIZIrF4TgR4.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\2lxyjVeXpNVDb9GVHIZIrF4TgR4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/2lxyjVeXpNVDb9GVHIZIrF4TgR4.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\2lxyjVeXpNVDb9GVHIZIrF4TgR4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/3hevG7rGtThbF7hKQ5vZ4FJYJ8o.png?width=475&height=475
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\3hevG7rGtThbF7hKQ5vZ4FJYJ8o.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3RO8n7hwnrVXqzivbqoZWJNPao0.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\3RO8n7hwnrVXqzivbqoZWJNPao0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/3RO8n7hwnrVXqzivbqoZWJNPao0.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\3RO8n7hwnrVXqzivbqoZWJNPao0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/3RO8n7hwnrVXqzivbqoZWJNPao0.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\3RO8n7hwnrVXqzivbqoZWJNPao0.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/523qCtq658KBvlwL8ICC6GiyNU.jpg?scale-down-to=1024&width=2400&height=1351
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\523qCtq658KBvlwL8ICC6GiyNU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/523qCtq658KBvlwL8ICC6GiyNU.jpg?scale-down-to=2048&width=2400&height=1351
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\523qCtq658KBvlwL8ICC6GiyNU-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/523qCtq658KBvlwL8ICC6GiyNU.jpg?scale-down-to=512&width=2400&height=1351
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\523qCtq658KBvlwL8ICC6GiyNU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/523qCtq658KBvlwL8ICC6GiyNU.jpg?width=2400&height=1351
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\523qCtq658KBvlwL8ICC6GiyNU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/52FTJN1Dfj1MXroQq4lsnmonnCY.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\52FTJN1Dfj1MXroQq4lsnmonnCY-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/52FTJN1Dfj1MXroQq4lsnmonnCY.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\52FTJN1Dfj1MXroQq4lsnmonnCY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/52FTJN1Dfj1MXroQq4lsnmonnCY.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\52FTJN1Dfj1MXroQq4lsnmonnCY.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5VvJJmyZUVlzo4is0Fstw4I4G6U.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\5VvJJmyZUVlzo4is0Fstw4I4G6U-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5VvJJmyZUVlzo4is0Fstw4I4G6U.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\5VvJJmyZUVlzo4is0Fstw4I4G6U-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/5VvJJmyZUVlzo4is0Fstw4I4G6U.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\5VvJJmyZUVlzo4is0Fstw4I4G6U.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/6KLxSqag5o48eaSDSQxhvFnLqY.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\6KLxSqag5o48eaSDSQxhvFnLqY-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/6KLxSqag5o48eaSDSQxhvFnLqY.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\6KLxSqag5o48eaSDSQxhvFnLqY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/6KLxSqag5o48eaSDSQxhvFnLqY.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\6KLxSqag5o48eaSDSQxhvFnLqY.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/6Xs8xlgxiSXRLxPGGQmc1MX1nk4.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\6Xs8xlgxiSXRLxPGGQmc1MX1nk4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/6Xs8xlgxiSXRLxPGGQmc1MX1nk4.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\6Xs8xlgxiSXRLxPGGQmc1MX1nk4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/6Xs8xlgxiSXRLxPGGQmc1MX1nk4.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\6Xs8xlgxiSXRLxPGGQmc1MX1nk4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7DyBYO2tzOJqpPLRUsNVYH1SRAw.jpg?scale-down-to=1024&width=2000&height=1349
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\7DyBYO2tzOJqpPLRUsNVYH1SRAw-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7DyBYO2tzOJqpPLRUsNVYH1SRAw.jpg?scale-down-to=512&width=2000&height=1349
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\7DyBYO2tzOJqpPLRUsNVYH1SRAw-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7DyBYO2tzOJqpPLRUsNVYH1SRAw.jpg?width=2000&height=1349
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\7DyBYO2tzOJqpPLRUsNVYH1SRAw.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7XijLRMEJ5xnSbXDCL98Zpy1dU.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\7XijLRMEJ5xnSbXDCL98Zpy1dU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7XijLRMEJ5xnSbXDCL98Zpy1dU.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\7XijLRMEJ5xnSbXDCL98Zpy1dU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7XijLRMEJ5xnSbXDCL98Zpy1dU.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\7XijLRMEJ5xnSbXDCL98Zpy1dU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/7Yhjk4rZWI4brCoTk6xwKzFPaQ4.svg?width=170&height=41
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\7Yhjk4rZWI4brCoTk6xwKzFPaQ4.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/80vXo57CgUHj4oqKv8jQjjIX0Q.jpg?scale-down-to=1024&width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\80vXo57CgUHj4oqKv8jQjjIX0Q-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/80vXo57CgUHj4oqKv8jQjjIX0Q.jpg?scale-down-to=512&width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\80vXo57CgUHj4oqKv8jQjjIX0Q-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/80vXo57CgUHj4oqKv8jQjjIX0Q.jpg?width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\80vXo57CgUHj4oqKv8jQjjIX0Q.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/80Yra1Jgbpbt3JmXOSXNYhOhx4.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\80Yra1Jgbpbt3JmXOSXNYhOhx4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/80Yra1Jgbpbt3JmXOSXNYhOhx4.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\80Yra1Jgbpbt3JmXOSXNYhOhx4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/80Yra1Jgbpbt3JmXOSXNYhOhx4.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\80Yra1Jgbpbt3JmXOSXNYhOhx4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8koOg4MVi1a6ILUcv2c0Knfiz4.jpg?scale-down-to=1024&width=1920&height=1079
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\8koOg4MVi1a6ILUcv2c0Knfiz4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8koOg4MVi1a6ILUcv2c0Knfiz4.jpg?scale-down-to=512&width=1920&height=1079
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\8koOg4MVi1a6ILUcv2c0Knfiz4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/8koOg4MVi1a6ILUcv2c0Knfiz4.jpg?width=1920&height=1079
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\8koOg4MVi1a6ILUcv2c0Knfiz4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/9LZDXPHMfNJRTfQRmICX4BsyX5w.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\9LZDXPHMfNJRTfQRmICX4BsyX5w.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/9Vws6mXnjy8oum1RhuGzGZJ95Ws.png?scale-down-to=1024&width=1200&height=701
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\9Vws6mXnjy8oum1RhuGzGZJ95Ws-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/9Vws6mXnjy8oum1RhuGzGZJ95Ws.png?scale-down-to=512&width=1200&height=701
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\9Vws6mXnjy8oum1RhuGzGZJ95Ws-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/9Vws6mXnjy8oum1RhuGzGZJ95Ws.png?width=1200&height=701
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\9Vws6mXnjy8oum1RhuGzGZJ95Ws.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/aBAx5gTVI0ZhsjyBWoltbxhhB2c.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\aBAx5gTVI0ZhsjyBWoltbxhhB2c-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/aBAx5gTVI0ZhsjyBWoltbxhhB2c.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\aBAx5gTVI0ZhsjyBWoltbxhhB2c-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/aBAx5gTVI0ZhsjyBWoltbxhhB2c.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\aBAx5gTVI0ZhsjyBWoltbxhhB2c.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/aDRGPNJSYrR6hCCbW95vtXrFNvY.png?scale-down-to=1024&width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\aDRGPNJSYrR6hCCbW95vtXrFNvY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/aDRGPNJSYrR6hCCbW95vtXrFNvY.png?width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\aDRGPNJSYrR6hCCbW95vtXrFNvY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/aIMknA3TPoHEe0HU8PzFQpGkAQ.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\aIMknA3TPoHEe0HU8PzFQpGkAQ-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/aIMknA3TPoHEe0HU8PzFQpGkAQ.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\aIMknA3TPoHEe0HU8PzFQpGkAQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/aIMknA3TPoHEe0HU8PzFQpGkAQ.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\aIMknA3TPoHEe0HU8PzFQpGkAQ.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/AqKL6ZcQNT6uKoBRMJkEOcXDys.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\AqKL6ZcQNT6uKoBRMJkEOcXDys.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AWl2H4vVsER8gwKPU7o1B1IwBM.png?width=670&height=725
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\AWl2H4vVsER8gwKPU7o1B1IwBM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AZU0TF2Nmbmrw1n3iK9qVWb1ppU.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\AZU0TF2Nmbmrw1n3iK9qVWb1ppU.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/Bqgk9UkBF87hevG5FykVr5VfM.jpg?scale-down-to=1024&width=2000&height=1349
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Bqgk9UkBF87hevG5FykVr5VfM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Bqgk9UkBF87hevG5FykVr5VfM.jpg?scale-down-to=512&width=2000&height=1349
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Bqgk9UkBF87hevG5FykVr5VfM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Bqgk9UkBF87hevG5FykVr5VfM.jpg?width=2000&height=1349
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Bqgk9UkBF87hevG5FykVr5VfM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/BWDZOLn5jCWnpbapZL4hADL5iU.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\BWDZOLn5jCWnpbapZL4hADL5iU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/BWDZOLn5jCWnpbapZL4hADL5iU.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\BWDZOLn5jCWnpbapZL4hADL5iU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/BWDZOLn5jCWnpbapZL4hADL5iU.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\BWDZOLn5jCWnpbapZL4hADL5iU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bXdIHsg0rYtduaObU41v29UEeo.jpg?scale-down-to=1024&width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\bXdIHsg0rYtduaObU41v29UEeo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bXdIHsg0rYtduaObU41v29UEeo.jpg?scale-down-to=512&width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\bXdIHsg0rYtduaObU41v29UEeo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/bXdIHsg0rYtduaObU41v29UEeo.jpg?width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\bXdIHsg0rYtduaObU41v29UEeo.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/C38B94jVjWMMFJKgPucRdABvVOQ.webp?scale-down-to=1024&width=1920&height=2880
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\C38B94jVjWMMFJKgPucRdABvVOQ-1.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/C38B94jVjWMMFJKgPucRdABvVOQ.webp?scale-down-to=2048&width=1920&height=2880
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\C38B94jVjWMMFJKgPucRdABvVOQ-2.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/C38B94jVjWMMFJKgPucRdABvVOQ.webp?width=1920&height=2880
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\C38B94jVjWMMFJKgPucRdABvVOQ.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/c7lGpF4IPpDSDa5WWU7lJ0WUhyc.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\c7lGpF4IPpDSDa5WWU7lJ0WUhyc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/c7lGpF4IPpDSDa5WWU7lJ0WUhyc.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\c7lGpF4IPpDSDa5WWU7lJ0WUhyc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/c7lGpF4IPpDSDa5WWU7lJ0WUhyc.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\c7lGpF4IPpDSDa5WWU7lJ0WUhyc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CF2sIovU25zWQtdGvqmmkkz9QA.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\CF2sIovU25zWQtdGvqmmkkz9QA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CF2sIovU25zWQtdGvqmmkkz9QA.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\CF2sIovU25zWQtdGvqmmkkz9QA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CF2sIovU25zWQtdGvqmmkkz9QA.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\CF2sIovU25zWQtdGvqmmkkz9QA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/chgh2myXghBAgoHskQVoviJcSQ.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\chgh2myXghBAgoHskQVoviJcSQ.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/cp7v95CXOcIJXIK7B2dsVwT06fQ.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\cp7v95CXOcIJXIK7B2dsVwT06fQ-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/cp7v95CXOcIJXIK7B2dsVwT06fQ.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\cp7v95CXOcIJXIK7B2dsVwT06fQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/cp7v95CXOcIJXIK7B2dsVwT06fQ.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\cp7v95CXOcIJXIK7B2dsVwT06fQ.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/cpQqo8yZOqy3XOKBO6JoryeZzOA.jpg?scale-down-to=1024&width=1080&height=772
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\cpQqo8yZOqy3XOKBO6JoryeZzOA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/cpQqo8yZOqy3XOKBO6JoryeZzOA.jpg?scale-down-to=512&width=1080&height=772
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\cpQqo8yZOqy3XOKBO6JoryeZzOA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/cpQqo8yZOqy3XOKBO6JoryeZzOA.jpg?width=1080&height=772
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\cpQqo8yZOqy3XOKBO6JoryeZzOA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/CyRefJoKUFvaqXySjKkXdCokXVA.png?scale-down-to=1024&width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\CyRefJoKUFvaqXySjKkXdCokXVA-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CyRefJoKUFvaqXySjKkXdCokXVA.png?width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\CyRefJoKUFvaqXySjKkXdCokXVA.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/d0UZYQNizVtPrUNKIeSKu9KFo.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\d0UZYQNizVtPrUNKIeSKu9KFo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/d0UZYQNizVtPrUNKIeSKu9KFo.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\d0UZYQNizVtPrUNKIeSKu9KFo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/d0UZYQNizVtPrUNKIeSKu9KFo.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\d0UZYQNizVtPrUNKIeSKu9KFo.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DiUVqmssHCaB8hecNUQV2O8xDE.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\DiUVqmssHCaB8hecNUQV2O8xDE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DiUVqmssHCaB8hecNUQV2O8xDE.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\DiUVqmssHCaB8hecNUQV2O8xDE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DiUVqmssHCaB8hecNUQV2O8xDE.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\DiUVqmssHCaB8hecNUQV2O8xDE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/djLCB1mGpLbW6SR0jukAKOcujg.jpg?scale-down-to=1024&width=2400&height=1350
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\djLCB1mGpLbW6SR0jukAKOcujg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/djLCB1mGpLbW6SR0jukAKOcujg.jpg?scale-down-to=2048&width=2400&height=1350
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\djLCB1mGpLbW6SR0jukAKOcujg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/djLCB1mGpLbW6SR0jukAKOcujg.jpg?scale-down-to=512&width=2400&height=1350
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\djLCB1mGpLbW6SR0jukAKOcujg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/djLCB1mGpLbW6SR0jukAKOcujg.jpg?width=2400&height=1350
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\djLCB1mGpLbW6SR0jukAKOcujg.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/DjnrHZKRxySceUMi4EML4UBV0Bs.png?scale-down-to=1024&width=1002&height=1073
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\DjnrHZKRxySceUMi4EML4UBV0Bs-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/DjnrHZKRxySceUMi4EML4UBV0Bs.png?width=1002&height=1073
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\DjnrHZKRxySceUMi4EML4UBV0Bs.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/dyshVuVV7hms1SQLtPK6JdUYY.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\dyshVuVV7hms1SQLtPK6JdUYY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/DZqelVQsFHxhT3Lpppq1W4Wlgc.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\DZqelVQsFHxhT3Lpppq1W4Wlgc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/e0DgLSAcveebEjBZrMaCAyvBGo.jpg?scale-down-to=1024&width=2000&height=1380
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\e0DgLSAcveebEjBZrMaCAyvBGo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/e0DgLSAcveebEjBZrMaCAyvBGo.jpg?scale-down-to=512&width=2000&height=1380
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\e0DgLSAcveebEjBZrMaCAyvBGo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/e0DgLSAcveebEjBZrMaCAyvBGo.jpg?width=2000&height=1380
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\e0DgLSAcveebEjBZrMaCAyvBGo.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ee6kK8WaLypRaVnTTQzMzGoib4.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ee6kK8WaLypRaVnTTQzMzGoib4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ee6kK8WaLypRaVnTTQzMzGoib4.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ee6kK8WaLypRaVnTTQzMzGoib4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ee6kK8WaLypRaVnTTQzMzGoib4.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ee6kK8WaLypRaVnTTQzMzGoib4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EFT2SKqs2gjXbfnAs81B3DO92Cs.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EFT2SKqs2gjXbfnAs81B3DO92Cs-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EFT2SKqs2gjXbfnAs81B3DO92Cs.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EFT2SKqs2gjXbfnAs81B3DO92Cs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EFT2SKqs2gjXbfnAs81B3DO92Cs.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EFT2SKqs2gjXbfnAs81B3DO92Cs.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EKqIZd4LWH9eRM0bwgze1v5lhB4.png?width=50&height=50
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EKqIZd4LWH9eRM0bwgze1v5lhB4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ELa9B0kCatgB6JYSMXHmN2gAFA.jpg?scale-down-to=1024&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ELa9B0kCatgB6JYSMXHmN2gAFA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ELa9B0kCatgB6JYSMXHmN2gAFA.jpg?scale-down-to=2048&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ELa9B0kCatgB6JYSMXHmN2gAFA-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ELa9B0kCatgB6JYSMXHmN2gAFA.jpg?scale-down-to=512&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ELa9B0kCatgB6JYSMXHmN2gAFA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ELa9B0kCatgB6JYSMXHmN2gAFA.jpg?width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ELa9B0kCatgB6JYSMXHmN2gAFA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EvsN2huyZdtRC4sdPuj5guulBMQ.jpg?scale-down-to=1024&width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EvsN2huyZdtRC4sdPuj5guulBMQ-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EvsN2huyZdtRC4sdPuj5guulBMQ.jpg?scale-down-to=512&width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EvsN2huyZdtRC4sdPuj5guulBMQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EvsN2huyZdtRC4sdPuj5guulBMQ.jpg?width=2000&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EvsN2huyZdtRC4sdPuj5guulBMQ.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EwhlTlD8qbMckykSXTl3tZUdCqU.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EwhlTlD8qbMckykSXTl3tZUdCqU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EwhlTlD8qbMckykSXTl3tZUdCqU.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EwhlTlD8qbMckykSXTl3tZUdCqU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/EwhlTlD8qbMckykSXTl3tZUdCqU.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\EwhlTlD8qbMckykSXTl3tZUdCqU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ExSXFeIalxIXz2dfqDi04o5Wk3w.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ExSXFeIalxIXz2dfqDi04o5Wk3w.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/F0nWjzemmDkGCS1eOq9UqBTlP2A.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\F0nWjzemmDkGCS1eOq9UqBTlP2A.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/faWt5q46rMT3c3ajNwjP0KSHQ8.svg?width=27&height=16
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\faWt5q46rMT3c3ajNwjP0KSHQ8.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/fkoIoKSJvASSpAkMuf21I9MFE.jpg?scale-down-to=1024&width=1920&height=1277
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fkoIoKSJvASSpAkMuf21I9MFE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fkoIoKSJvASSpAkMuf21I9MFE.jpg?scale-down-to=512&width=1920&height=1277
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fkoIoKSJvASSpAkMuf21I9MFE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fkoIoKSJvASSpAkMuf21I9MFE.jpg?width=1920&height=1277
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fkoIoKSJvASSpAkMuf21I9MFE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/flvSFLTNoWMC1jf1YYWywxE4RU.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\flvSFLTNoWMC1jf1YYWywxE4RU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/flvSFLTNoWMC1jf1YYWywxE4RU.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\flvSFLTNoWMC1jf1YYWywxE4RU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/flvSFLTNoWMC1jf1YYWywxE4RU.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\flvSFLTNoWMC1jf1YYWywxE4RU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fvF5gp6TO2kaIyVyVGLLzsu18.jpg?scale-down-to=1024&width=2400&height=1350
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fvF5gp6TO2kaIyVyVGLLzsu18-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fvF5gp6TO2kaIyVyVGLLzsu18.jpg?scale-down-to=2048&width=2400&height=1350
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fvF5gp6TO2kaIyVyVGLLzsu18-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fvF5gp6TO2kaIyVyVGLLzsu18.jpg?scale-down-to=512&width=2400&height=1350
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fvF5gp6TO2kaIyVyVGLLzsu18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fvF5gp6TO2kaIyVyVGLLzsu18.jpg?width=2400&height=1350
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fvF5gp6TO2kaIyVyVGLLzsu18.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/FVOjQMF9IVWuaYo9HHtuRbaFPUM.svg?width=169&height=42
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\FVOjQMF9IVWuaYo9HHtuRbaFPUM.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/FWXePMz46ZOD4Blq04liwdli0KA.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\FWXePMz46ZOD4Blq04liwdli0KA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/FWXePMz46ZOD4Blq04liwdli0KA.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\FWXePMz46ZOD4Blq04liwdli0KA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/FWXePMz46ZOD4Blq04liwdli0KA.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\FWXePMz46ZOD4Blq04liwdli0KA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fxAuvkL6GKFzeZSenkvoIaQc9M.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fxAuvkL6GKFzeZSenkvoIaQc9M-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fxAuvkL6GKFzeZSenkvoIaQc9M.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fxAuvkL6GKFzeZSenkvoIaQc9M-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/fxAuvkL6GKFzeZSenkvoIaQc9M.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\fxAuvkL6GKFzeZSenkvoIaQc9M.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/g06GIqmlZIoXDmLDMPNPfumT8.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\g06GIqmlZIoXDmLDMPNPfumT8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/g06GIqmlZIoXDmLDMPNPfumT8.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\g06GIqmlZIoXDmLDMPNPfumT8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/g06GIqmlZIoXDmLDMPNPfumT8.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\g06GIqmlZIoXDmLDMPNPfumT8.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/logo-white.png?width=105&height=16
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\logo-white.png
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/GkBFWJzeROQ4iG7iNI7Dyp8kHM.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\GkBFWJzeROQ4iG7iNI7Dyp8kHM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/GkBFWJzeROQ4iG7iNI7Dyp8kHM.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\GkBFWJzeROQ4iG7iNI7Dyp8kHM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/GkBFWJzeROQ4iG7iNI7Dyp8kHM.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\GkBFWJzeROQ4iG7iNI7Dyp8kHM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gKbQn7W9fVGYLSvB4anHjd9q74.jpg?scale-down-to=1024&width=1080&height=589
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\gKbQn7W9fVGYLSvB4anHjd9q74-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gKbQn7W9fVGYLSvB4anHjd9q74.jpg?scale-down-to=512&width=1080&height=589
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\gKbQn7W9fVGYLSvB4anHjd9q74-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gKbQn7W9fVGYLSvB4anHjd9q74.jpg?width=1080&height=589
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\gKbQn7W9fVGYLSvB4anHjd9q74.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gLrH469XNlmbtkgPDZiGeRcLqo.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\gLrH469XNlmbtkgPDZiGeRcLqo.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/gRPUjzSkUGxQHfKIIjxvHHLChOA.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\gRPUjzSkUGxQHfKIIjxvHHLChOA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gRPUjzSkUGxQHfKIIjxvHHLChOA.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\gRPUjzSkUGxQHfKIIjxvHHLChOA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/gRPUjzSkUGxQHfKIIjxvHHLChOA.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\gRPUjzSkUGxQHfKIIjxvHHLChOA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/GSYIzPiVQDA0p1B90FmS7yVJwU.jpg?scale-down-to=1024&width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\GSYIzPiVQDA0p1B90FmS7yVJwU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/GSYIzPiVQDA0p1B90FmS7yVJwU.jpg?scale-down-to=512&width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\GSYIzPiVQDA0p1B90FmS7yVJwU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/GSYIzPiVQDA0p1B90FmS7yVJwU.jpg?width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\GSYIzPiVQDA0p1B90FmS7yVJwU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/guFI2Iczyl5X00aNgK4fB9K4CBc.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\guFI2Iczyl5X00aNgK4fB9K4CBc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/guFI2Iczyl5X00aNgK4fB9K4CBc.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\guFI2Iczyl5X00aNgK4fB9K4CBc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/guFI2Iczyl5X00aNgK4fB9K4CBc.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\guFI2Iczyl5X00aNgK4fB9K4CBc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/HbCndmCvgmAOZAAaDsbARceYXuc.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\HbCndmCvgmAOZAAaDsbARceYXuc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/HbCndmCvgmAOZAAaDsbARceYXuc.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\HbCndmCvgmAOZAAaDsbARceYXuc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/HbCndmCvgmAOZAAaDsbARceYXuc.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\HbCndmCvgmAOZAAaDsbARceYXuc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/hdvHiORmLPzOcPMpX10AZ8e56AE.jpg?scale-down-to=1024&width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\hdvHiORmLPzOcPMpX10AZ8e56AE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/hdvHiORmLPzOcPMpX10AZ8e56AE.jpg?scale-down-to=512&width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\hdvHiORmLPzOcPMpX10AZ8e56AE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/hdvHiORmLPzOcPMpX10AZ8e56AE.jpg?width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\hdvHiORmLPzOcPMpX10AZ8e56AE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/hShAxoQYFW6Sc95fhqJMMNfB4o.png?scale-down-to=1024&width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\hShAxoQYFW6Sc95fhqJMMNfB4o-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hShAxoQYFW6Sc95fhqJMMNfB4o.png?width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\hShAxoQYFW6Sc95fhqJMMNfB4o.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hUlKsQU0VfM6Z8cMIdo4ScdY5Qs.png?scale-down-to=512&width=1000&height=700
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\hUlKsQU0VfM6Z8cMIdo4ScdY5Qs-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/hUlKsQU0VfM6Z8cMIdo4ScdY5Qs.png?width=1000&height=700
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\hUlKsQU0VfM6Z8cMIdo4ScdY5Qs.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/HvW5jof7Vqu9ARRqk4Puo5yFq8.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\HvW5jof7Vqu9ARRqk4Puo5yFq8-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/HvW5jof7Vqu9ARRqk4Puo5yFq8.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\HvW5jof7Vqu9ARRqk4Puo5yFq8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/HvW5jof7Vqu9ARRqk4Puo5yFq8.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\HvW5jof7Vqu9ARRqk4Puo5yFq8.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/I09UrnDIqtgQnZDeXGIfNwjm7k.png?scale-down-to=1024&width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\I09UrnDIqtgQnZDeXGIfNwjm7k-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/I09UrnDIqtgQnZDeXGIfNwjm7k.png?width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\I09UrnDIqtgQnZDeXGIfNwjm7k.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/IgsXOH4VLyIMQlFvws81uOI5M.jpg?scale-down-to=1024&width=1500&height=841
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\IgsXOH4VLyIMQlFvws81uOI5M-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/IgsXOH4VLyIMQlFvws81uOI5M.jpg?scale-down-to=512&width=1500&height=841
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\IgsXOH4VLyIMQlFvws81uOI5M-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/IgsXOH4VLyIMQlFvws81uOI5M.jpg?width=1500&height=841
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\IgsXOH4VLyIMQlFvws81uOI5M.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/iiZyO5wuFl7HUZxD08PWDxljA4.png?scale-down-to=1024&width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\iiZyO5wuFl7HUZxD08PWDxljA4-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/iiZyO5wuFl7HUZxD08PWDxljA4.png?width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\iiZyO5wuFl7HUZxD08PWDxljA4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/jJ2QE2pogPX02WGdrITxSFYNk.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\jJ2QE2pogPX02WGdrITxSFYNk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/jJ2QE2pogPX02WGdrITxSFYNk.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\jJ2QE2pogPX02WGdrITxSFYNk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/jJ2QE2pogPX02WGdrITxSFYNk.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\jJ2QE2pogPX02WGdrITxSFYNk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/K9Ku2rnzK9FwRtCwBcRMIdhPM.jpg?scale-down-to=1024&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\K9Ku2rnzK9FwRtCwBcRMIdhPM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/K9Ku2rnzK9FwRtCwBcRMIdhPM.jpg?scale-down-to=512&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\K9Ku2rnzK9FwRtCwBcRMIdhPM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/K9Ku2rnzK9FwRtCwBcRMIdhPM.jpg?width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\K9Ku2rnzK9FwRtCwBcRMIdhPM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kGkUZolt5mL84L77BXQv12wWe4.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\kGkUZolt5mL84L77BXQv12wWe4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kGkUZolt5mL84L77BXQv12wWe4.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\kGkUZolt5mL84L77BXQv12wWe4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kGkUZolt5mL84L77BXQv12wWe4.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\kGkUZolt5mL84L77BXQv12wWe4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ki29cDbfZEOsXCpxSZxEHWRwR0.jpg?scale-down-to=1024&width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ki29cDbfZEOsXCpxSZxEHWRwR0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ki29cDbfZEOsXCpxSZxEHWRwR0.jpg?scale-down-to=512&width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ki29cDbfZEOsXCpxSZxEHWRwR0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ki29cDbfZEOsXCpxSZxEHWRwR0.jpg?width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ki29cDbfZEOsXCpxSZxEHWRwR0.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kovKlz2fqQK3NQwVODBBi6iUQ.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\kovKlz2fqQK3NQwVODBBi6iUQ-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kovKlz2fqQK3NQwVODBBi6iUQ.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\kovKlz2fqQK3NQwVODBBi6iUQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/kovKlz2fqQK3NQwVODBBi6iUQ.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\kovKlz2fqQK3NQwVODBBi6iUQ.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/KSOlHFFC5nUUXLbn4S8VyXCFaXs.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\KSOlHFFC5nUUXLbn4S8VyXCFaXs-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/KSOlHFFC5nUUXLbn4S8VyXCFaXs.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\KSOlHFFC5nUUXLbn4S8VyXCFaXs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/KSOlHFFC5nUUXLbn4S8VyXCFaXs.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\KSOlHFFC5nUUXLbn4S8VyXCFaXs.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lauKk9eC5E0Nrr2qJYKMbDgHSuk.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\lauKk9eC5E0Nrr2qJYKMbDgHSuk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lauKk9eC5E0Nrr2qJYKMbDgHSuk.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\lauKk9eC5E0Nrr2qJYKMbDgHSuk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lauKk9eC5E0Nrr2qJYKMbDgHSuk.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\lauKk9eC5E0Nrr2qJYKMbDgHSuk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LjBaAAYaOEMkzFYz5OMU4DdqQ.jpg?scale-down-to=1024&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\LjBaAAYaOEMkzFYz5OMU4DdqQ-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LjBaAAYaOEMkzFYz5OMU4DdqQ.jpg?scale-down-to=2048&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\LjBaAAYaOEMkzFYz5OMU4DdqQ-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LjBaAAYaOEMkzFYz5OMU4DdqQ.jpg?scale-down-to=512&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\LjBaAAYaOEMkzFYz5OMU4DdqQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/LjBaAAYaOEMkzFYz5OMU4DdqQ.jpg?width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\LjBaAAYaOEMkzFYz5OMU4DdqQ.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lx53mzr497aFC4DafzQzVkJu71g.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\lx53mzr497aFC4DafzQzVkJu71g-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lx53mzr497aFC4DafzQzVkJu71g.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\lx53mzr497aFC4DafzQzVkJu71g-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/lx53mzr497aFC4DafzQzVkJu71g.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\lx53mzr497aFC4DafzQzVkJu71g.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M4hE3aQIFycyPl3s0HdqMaMZcM.jpg?scale-down-to=1024&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\M4hE3aQIFycyPl3s0HdqMaMZcM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M4hE3aQIFycyPl3s0HdqMaMZcM.jpg?scale-down-to=512&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\M4hE3aQIFycyPl3s0HdqMaMZcM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/M4hE3aQIFycyPl3s0HdqMaMZcM.jpg?width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\M4hE3aQIFycyPl3s0HdqMaMZcM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/MgsvmarWlWMRJHeZ62lsJU.png?scale-down-to=512&width=620&height=620
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\MgsvmarWlWMRJHeZ62lsJU-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MgsvmarWlWMRJHeZ62lsJU.png?width=620&height=620
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\MgsvmarWlWMRJHeZ62lsJU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MJyboGDDPgobCzOK0v44golabew.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\MJyboGDDPgobCzOK0v44golabew.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/mlAYq7k38WtDmmt0bl7Q2eVB8.jpg?scale-down-to=1024&width=1399&height=2000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\mlAYq7k38WtDmmt0bl7Q2eVB8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/mlAYq7k38WtDmmt0bl7Q2eVB8.jpg?width=1399&height=2000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\mlAYq7k38WtDmmt0bl7Q2eVB8.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/MV7fTNz23BB1s6ZMYEuei5zePI.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\MV7fTNz23BB1s6ZMYEuei5zePI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/n30o0ATlo0US9yQJvhoTnrBg.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\n30o0ATlo0US9yQJvhoTnrBg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NmbjU4X7RGOgJ8MeQ7o6zGRXc.jpg?scale-down-to=1024&width=1500&height=1001
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\NmbjU4X7RGOgJ8MeQ7o6zGRXc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/NmbjU4X7RGOgJ8MeQ7o6zGRXc.jpg?scale-down-to=512&width=1500&height=1001
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\NmbjU4X7RGOgJ8MeQ7o6zGRXc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/NmbjU4X7RGOgJ8MeQ7o6zGRXc.jpg?width=1500&height=1001
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\NmbjU4X7RGOgJ8MeQ7o6zGRXc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/NY7sSIuFNs6shR8EJsyPi6hro.jpg?scale-down-to=1024&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\NY7sSIuFNs6shR8EJsyPi6hro-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/NY7sSIuFNs6shR8EJsyPi6hro.jpg?scale-down-to=2048&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\NY7sSIuFNs6shR8EJsyPi6hro-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/NY7sSIuFNs6shR8EJsyPi6hro.jpg?scale-down-to=512&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\NY7sSIuFNs6shR8EJsyPi6hro-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/NY7sSIuFNs6shR8EJsyPi6hro.jpg?width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\NY7sSIuFNs6shR8EJsyPi6hro.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/O46vSjax2aeC4PgTeu85jsuyYY.jpg?scale-down-to=1024&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\O46vSjax2aeC4PgTeu85jsuyYY-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/O46vSjax2aeC4PgTeu85jsuyYY.jpg?scale-down-to=512&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\O46vSjax2aeC4PgTeu85jsuyYY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/O46vSjax2aeC4PgTeu85jsuyYY.jpg?width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\O46vSjax2aeC4PgTeu85jsuyYY.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/o84Yd9ar5LV6dsQQ6zPgw0dPX28.jpg?scale-down-to=1024&width=2000&height=1336
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\o84Yd9ar5LV6dsQQ6zPgw0dPX28-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/o84Yd9ar5LV6dsQQ6zPgw0dPX28.jpg?scale-down-to=512&width=2000&height=1336
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\o84Yd9ar5LV6dsQQ6zPgw0dPX28-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/o84Yd9ar5LV6dsQQ6zPgw0dPX28.jpg?width=2000&height=1336
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\o84Yd9ar5LV6dsQQ6zPgw0dPX28.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oGISYb0GcW4T3wwYBbR374ruUTE.jpg?scale-down-to=1024&width=1920&height=1080
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\oGISYb0GcW4T3wwYBbR374ruUTE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oGISYb0GcW4T3wwYBbR374ruUTE.jpg?scale-down-to=512&width=1920&height=1080
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\oGISYb0GcW4T3wwYBbR374ruUTE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oGISYb0GcW4T3wwYBbR374ruUTE.jpg?width=1920&height=1080
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\oGISYb0GcW4T3wwYBbR374ruUTE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OK3WC06XBZpHxxtt8LOAtq9M.jpg?scale-down-to=1024&width=2000&height=1034
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OK3WC06XBZpHxxtt8LOAtq9M-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OK3WC06XBZpHxxtt8LOAtq9M.jpg?scale-down-to=512&width=2000&height=1034
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OK3WC06XBZpHxxtt8LOAtq9M-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OK3WC06XBZpHxxtt8LOAtq9M.jpg?width=2000&height=1034
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OK3WC06XBZpHxxtt8LOAtq9M.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OPUoX1HReInDbVtCAFLnFszM5B4.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OPUoX1HReInDbVtCAFLnFszM5B4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OPUoX1HReInDbVtCAFLnFszM5B4.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OPUoX1HReInDbVtCAFLnFszM5B4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OPUoX1HReInDbVtCAFLnFszM5B4.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OPUoX1HReInDbVtCAFLnFszM5B4.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OtK7sr7zPRA2t490cT9JTwrfM.jpg?scale-down-to=1024&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OtK7sr7zPRA2t490cT9JTwrfM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OtK7sr7zPRA2t490cT9JTwrfM.jpg?scale-down-to=2048&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OtK7sr7zPRA2t490cT9JTwrfM-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OtK7sr7zPRA2t490cT9JTwrfM.jpg?scale-down-to=512&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OtK7sr7zPRA2t490cT9JTwrfM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OtK7sr7zPRA2t490cT9JTwrfM.jpg?width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OtK7sr7zPRA2t490cT9JTwrfM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Logo-2.png?width=105&height=16
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Logo-2.png
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/OXCRw78rF1oEm0Hh4GfEgaX4cQ.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OXCRw78rF1oEm0Hh4GfEgaX4cQ-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OXCRw78rF1oEm0Hh4GfEgaX4cQ.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OXCRw78rF1oEm0Hh4GfEgaX4cQ-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OXCRw78rF1oEm0Hh4GfEgaX4cQ.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OXCRw78rF1oEm0Hh4GfEgaX4cQ.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oykmYKgybuyV5ksgOKyR7YnR58.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\oykmYKgybuyV5ksgOKyR7YnR58-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oykmYKgybuyV5ksgOKyR7YnR58.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\oykmYKgybuyV5ksgOKyR7YnR58-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/oykmYKgybuyV5ksgOKyR7YnR58.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\oykmYKgybuyV5ksgOKyR7YnR58.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OzPa6pJZo0TbRfbPtX3UEZg6T6U.jpg?scale-down-to=1024&width=1080&height=720
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OzPa6pJZo0TbRfbPtX3UEZg6T6U-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OzPa6pJZo0TbRfbPtX3UEZg6T6U.jpg?scale-down-to=512&width=1080&height=720
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OzPa6pJZo0TbRfbPtX3UEZg6T6U-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/OzPa6pJZo0TbRfbPtX3UEZg6T6U.jpg?width=1080&height=720
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\OzPa6pJZo0TbRfbPtX3UEZg6T6U.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/P4A3fFIAyQCDHzXPhPcWvj8cUU.jpg?scale-down-to=1024&width=2000&height=1506
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\P4A3fFIAyQCDHzXPhPcWvj8cUU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/P4A3fFIAyQCDHzXPhPcWvj8cUU.jpg?scale-down-to=512&width=2000&height=1506
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\P4A3fFIAyQCDHzXPhPcWvj8cUU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/P4A3fFIAyQCDHzXPhPcWvj8cUU.jpg?width=2000&height=1506
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\P4A3fFIAyQCDHzXPhPcWvj8cUU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/PHx5uw1TK2mdbH3dleki3Z6Rg.png?scale-down-to=512&width=665&height=665
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\PHx5uw1TK2mdbH3dleki3Z6Rg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/PHx5uw1TK2mdbH3dleki3Z6Rg.png?width=665&height=665
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\PHx5uw1TK2mdbH3dleki3Z6Rg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/pieRFjxkCHmRAa1DSG2R3a1CfMc.jpg?scale-down-to=1024&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\pieRFjxkCHmRAa1DSG2R3a1CfMc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/pieRFjxkCHmRAa1DSG2R3a1CfMc.jpg?scale-down-to=2048&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\pieRFjxkCHmRAa1DSG2R3a1CfMc-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/pieRFjxkCHmRAa1DSG2R3a1CfMc.jpg?scale-down-to=512&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\pieRFjxkCHmRAa1DSG2R3a1CfMc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/pieRFjxkCHmRAa1DSG2R3a1CfMc.jpg?width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\pieRFjxkCHmRAa1DSG2R3a1CfMc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ppFWR7m2cEGeH3AP7GyCaoJO3Mc.png?width=673&height=720
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ppFWR7m2cEGeH3AP7GyCaoJO3Mc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/PQkmgh45GFHqf3FW5vjpWDHV8Ks.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\PQkmgh45GFHqf3FW5vjpWDHV8Ks-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/PQkmgh45GFHqf3FW5vjpWDHV8Ks.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\PQkmgh45GFHqf3FW5vjpWDHV8Ks-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/PQkmgh45GFHqf3FW5vjpWDHV8Ks.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\PQkmgh45GFHqf3FW5vjpWDHV8Ks.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/PUta6X1mvt6rC6pGPMVrYfkqdYk.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\PUta6X1mvt6rC6pGPMVrYfkqdYk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/PUta6X1mvt6rC6pGPMVrYfkqdYk.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\PUta6X1mvt6rC6pGPMVrYfkqdYk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/PUta6X1mvt6rC6pGPMVrYfkqdYk.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\PUta6X1mvt6rC6pGPMVrYfkqdYk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/q2pfKT9sKsiENJPbMZ7OeTTCAI.jpg?scale-down-to=1024&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\q2pfKT9sKsiENJPbMZ7OeTTCAI-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/q2pfKT9sKsiENJPbMZ7OeTTCAI.jpg?scale-down-to=512&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\q2pfKT9sKsiENJPbMZ7OeTTCAI-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/q2pfKT9sKsiENJPbMZ7OeTTCAI.jpg?width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\q2pfKT9sKsiENJPbMZ7OeTTCAI.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QaXaK94MJJ31G8A9kGeSLNMNaw.jpg?scale-down-to=1024&width=1500&height=818
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QaXaK94MJJ31G8A9kGeSLNMNaw-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QaXaK94MJJ31G8A9kGeSLNMNaw.jpg?scale-down-to=512&width=1500&height=818
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QaXaK94MJJ31G8A9kGeSLNMNaw-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QaXaK94MJJ31G8A9kGeSLNMNaw.jpg?width=1500&height=818
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QaXaK94MJJ31G8A9kGeSLNMNaw.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/qh5DRDfmmgyUDRygiVTyxx1Euw.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\qh5DRDfmmgyUDRygiVTyxx1Euw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qnbHBDW9Z7LFxGz3KK4p7TjJes.png
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\qnbHBDW9Z7LFxGz3KK4p7TjJes.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QR2tOTuc0ihZPIJM979gimakM.jpg?scale-down-to=1024&width=1500&height=1071
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QR2tOTuc0ihZPIJM979gimakM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QR2tOTuc0ihZPIJM979gimakM.jpg?scale-down-to=512&width=1500&height=1071
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QR2tOTuc0ihZPIJM979gimakM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QR2tOTuc0ihZPIJM979gimakM.jpg?width=1500&height=1071
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QR2tOTuc0ihZPIJM979gimakM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QTrafgC9Qplq7KHqPZdO9h7sITc.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QTrafgC9Qplq7KHqPZdO9h7sITc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QTrafgC9Qplq7KHqPZdO9h7sITc.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QTrafgC9Qplq7KHqPZdO9h7sITc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QTrafgC9Qplq7KHqPZdO9h7sITc.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QTrafgC9Qplq7KHqPZdO9h7sITc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/QTtZSIB8jbiyh3fgqduIpfrQEQ0.png?scale-down-to=1024&width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QTtZSIB8jbiyh3fgqduIpfrQEQ0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/QTtZSIB8jbiyh3fgqduIpfrQEQ0.png?width=900&height=1200
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\QTtZSIB8jbiyh3fgqduIpfrQEQ0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qWHNWXaaDonnugfitLPHJS4WC0g.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\qWHNWXaaDonnugfitLPHJS4WC0g.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/r06VtvcY8qLURlskkK0NB0XzTd8.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\r06VtvcY8qLURlskkK0NB0XzTd8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/RgspxbTp6RhrbN6DymiUTz474c.png
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\RgspxbTp6RhrbN6DymiUTz474c.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/s46HI5Nj8TR5AX6sgBJrXSW5wU.jpg?scale-down-to=1024&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\s46HI5Nj8TR5AX6sgBJrXSW5wU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/s46HI5Nj8TR5AX6sgBJrXSW5wU.jpg?scale-down-to=512&width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\s46HI5Nj8TR5AX6sgBJrXSW5wU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/s46HI5Nj8TR5AX6sgBJrXSW5wU.jpg?width=1920&height=1281
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\s46HI5Nj8TR5AX6sgBJrXSW5wU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/s828aYVt2v6WyA3byN2sDndmaWE.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\s828aYVt2v6WyA3byN2sDndmaWE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/sdheJeQYPVytRIT7DR1oJkK2A4s.jpg?scale-down-to=1024&width=1920&height=1078
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sdheJeQYPVytRIT7DR1oJkK2A4s-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sdheJeQYPVytRIT7DR1oJkK2A4s.jpg?scale-down-to=512&width=1920&height=1078
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sdheJeQYPVytRIT7DR1oJkK2A4s-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sdheJeQYPVytRIT7DR1oJkK2A4s.jpg?width=1920&height=1078
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sdheJeQYPVytRIT7DR1oJkK2A4s.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/serdTPjRp7xjJKHS108MpiW98.png
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\serdTPjRp7xjJKHS108MpiW98.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/sfvvW9zJauOvQRica5mZNGcFtPE.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sfvvW9zJauOvQRica5mZNGcFtPE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sfvvW9zJauOvQRica5mZNGcFtPE.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sfvvW9zJauOvQRica5mZNGcFtPE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sfvvW9zJauOvQRica5mZNGcFtPE.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sfvvW9zJauOvQRica5mZNGcFtPE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sJoUlEUDeiJP9OJExm4XIsfyd8.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sJoUlEUDeiJP9OJExm4XIsfyd8.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/sRK4GkFs2APVY0DIeBDmOTuGM.jpg?scale-down-to=1024&width=1500&height=998
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sRK4GkFs2APVY0DIeBDmOTuGM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sRK4GkFs2APVY0DIeBDmOTuGM.jpg?scale-down-to=512&width=1500&height=998
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sRK4GkFs2APVY0DIeBDmOTuGM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sRK4GkFs2APVY0DIeBDmOTuGM.jpg?width=1500&height=998
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sRK4GkFs2APVY0DIeBDmOTuGM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Sv0Bv5HRnG7dsZKZAmLkEzf9Xqc.png?scale-down-to=512&width=1000&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Sv0Bv5HRnG7dsZKZAmLkEzf9Xqc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Sv0Bv5HRnG7dsZKZAmLkEzf9Xqc.png?width=1000&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Sv0Bv5HRnG7dsZKZAmLkEzf9Xqc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/SWVupNHoQBJ7MbLNErhRRJWG3s.jpg?scale-down-to=1024&width=1920&height=1442
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\SWVupNHoQBJ7MbLNErhRRJWG3s-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SWVupNHoQBJ7MbLNErhRRJWG3s.jpg?scale-down-to=512&width=1920&height=1442
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\SWVupNHoQBJ7MbLNErhRRJWG3s-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/SWVupNHoQBJ7MbLNErhRRJWG3s.jpg?width=1920&height=1442
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\SWVupNHoQBJ7MbLNErhRRJWG3s.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Syipxg6BmBiieZCRfhYi10bgbJ0.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Syipxg6BmBiieZCRfhYi10bgbJ0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Syipxg6BmBiieZCRfhYi10bgbJ0.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Syipxg6BmBiieZCRfhYi10bgbJ0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Syipxg6BmBiieZCRfhYi10bgbJ0.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Syipxg6BmBiieZCRfhYi10bgbJ0.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/sZfKw3gcHlWbM3uB1Ow2TW8oa5c.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\sZfKw3gcHlWbM3uB1Ow2TW8oa5c.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/T1hORnRgLNdME5vrwfIVRSbP8Y.jpg?scale-down-to=1024&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\T1hORnRgLNdME5vrwfIVRSbP8Y-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/T1hORnRgLNdME5vrwfIVRSbP8Y.jpg?scale-down-to=2048&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\T1hORnRgLNdME5vrwfIVRSbP8Y-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/T1hORnRgLNdME5vrwfIVRSbP8Y.jpg?scale-down-to=512&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\T1hORnRgLNdME5vrwfIVRSbP8Y-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/T1hORnRgLNdME5vrwfIVRSbP8Y.jpg?width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\T1hORnRgLNdME5vrwfIVRSbP8Y.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/thpHbhvsQzt5KP5cEnM02871gqo.jpg?scale-down-to=1024&width=2000&height=1109
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\thpHbhvsQzt5KP5cEnM02871gqo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/thpHbhvsQzt5KP5cEnM02871gqo.jpg?scale-down-to=512&width=2000&height=1109
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\thpHbhvsQzt5KP5cEnM02871gqo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/thpHbhvsQzt5KP5cEnM02871gqo.jpg?width=2000&height=1109
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\thpHbhvsQzt5KP5cEnM02871gqo.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TpMAeO27dwRo6lt6cL6ljVPSc.jpg?scale-down-to=1024&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\TpMAeO27dwRo6lt6cL6ljVPSc-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TpMAeO27dwRo6lt6cL6ljVPSc.jpg?scale-down-to=2048&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\TpMAeO27dwRo6lt6cL6ljVPSc-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TpMAeO27dwRo6lt6cL6ljVPSc.jpg?scale-down-to=512&width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\TpMAeO27dwRo6lt6cL6ljVPSc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TpMAeO27dwRo6lt6cL6ljVPSc.jpg?width=2400&height=1601
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\TpMAeO27dwRo6lt6cL6ljVPSc.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/tS2CIjKzhWMLRW7A3bbPdFYZvk.jpg?scale-down-to=1024&width=1920&height=960
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\tS2CIjKzhWMLRW7A3bbPdFYZvk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/tS2CIjKzhWMLRW7A3bbPdFYZvk.jpg?scale-down-to=512&width=1920&height=960
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\tS2CIjKzhWMLRW7A3bbPdFYZvk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/tS2CIjKzhWMLRW7A3bbPdFYZvk.jpg?width=1920&height=960
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\tS2CIjKzhWMLRW7A3bbPdFYZvk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Tt9uJwjpC08USi9R8P3LOym4zdw.jpg?scale-down-to=1024&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Tt9uJwjpC08USi9R8P3LOym4zdw-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Tt9uJwjpC08USi9R8P3LOym4zdw.jpg?scale-down-to=2048&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Tt9uJwjpC08USi9R8P3LOym4zdw-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Tt9uJwjpC08USi9R8P3LOym4zdw.jpg?scale-down-to=512&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Tt9uJwjpC08USi9R8P3LOym4zdw-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Tt9uJwjpC08USi9R8P3LOym4zdw.jpg?width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Tt9uJwjpC08USi9R8P3LOym4zdw.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/twIr15oB6gEAP3E2MQbkBzcuA.jpg?scale-down-to=1024&width=1920&height=1278
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\twIr15oB6gEAP3E2MQbkBzcuA-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/twIr15oB6gEAP3E2MQbkBzcuA.jpg?scale-down-to=512&width=1920&height=1278
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\twIr15oB6gEAP3E2MQbkBzcuA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/twIr15oB6gEAP3E2MQbkBzcuA.jpg?width=1920&height=1278
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\twIr15oB6gEAP3E2MQbkBzcuA.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TXBapwrU1f06wtUqvqSPqUjxJM.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\TXBapwrU1f06wtUqvqSPqUjxJM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TXBapwrU1f06wtUqvqSPqUjxJM.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\TXBapwrU1f06wtUqvqSPqUjxJM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/TXBapwrU1f06wtUqvqSPqUjxJM.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\TXBapwrU1f06wtUqvqSPqUjxJM.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ucJfYvMDxSK6O1P60XPwKbgApU.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ucJfYvMDxSK6O1P60XPwKbgApU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ucJfYvMDxSK6O1P60XPwKbgApU.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ucJfYvMDxSK6O1P60XPwKbgApU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ucJfYvMDxSK6O1P60XPwKbgApU.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ucJfYvMDxSK6O1P60XPwKbgApU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/uJoFZdAlRyX2f5ZdyusMpvmTrRE.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\uJoFZdAlRyX2f5ZdyusMpvmTrRE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/uJoFZdAlRyX2f5ZdyusMpvmTrRE.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\uJoFZdAlRyX2f5ZdyusMpvmTrRE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/uJoFZdAlRyX2f5ZdyusMpvmTrRE.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\uJoFZdAlRyX2f5ZdyusMpvmTrRE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/UN8AebN5VZn3GncAkcwihFZaV0.png?width=500&height=500
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\UN8AebN5VZn3GncAkcwihFZaV0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/UVzHPiwD30yySXBFkXBwAkOPjbU.jpg?scale-down-to=1024&width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\UVzHPiwD30yySXBFkXBwAkOPjbU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/UVzHPiwD30yySXBFkXBwAkOPjbU.jpg?scale-down-to=512&width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\UVzHPiwD30yySXBFkXBwAkOPjbU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/UVzHPiwD30yySXBFkXBwAkOPjbU.jpg?width=2000&height=1335
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\UVzHPiwD30yySXBFkXBwAkOPjbU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/uyAT62bHnG5q77PXQOjK2hypwM.svg?width=170&height=41
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\uyAT62bHnG5q77PXQOjK2hypwM.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/vgHwCghmZkK0q0RAq3LGmqN8GoY.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vgHwCghmZkK0q0RAq3LGmqN8GoY-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vgHwCghmZkK0q0RAq3LGmqN8GoY.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vgHwCghmZkK0q0RAq3LGmqN8GoY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vgHwCghmZkK0q0RAq3LGmqN8GoY.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vgHwCghmZkK0q0RAq3LGmqN8GoY.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vGm1LW4ANxhgyS4pSBRkYyXOys.jpg?scale-down-to=1024&width=1920&height=1204
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vGm1LW4ANxhgyS4pSBRkYyXOys-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vGm1LW4ANxhgyS4pSBRkYyXOys.jpg?scale-down-to=512&width=1920&height=1204
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vGm1LW4ANxhgyS4pSBRkYyXOys-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vGm1LW4ANxhgyS4pSBRkYyXOys.jpg?width=1920&height=1204
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vGm1LW4ANxhgyS4pSBRkYyXOys.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Vl8xVBlZ1ZagjaKdqWIEbhA9Kao.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Vl8xVBlZ1ZagjaKdqWIEbhA9Kao-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Vl8xVBlZ1ZagjaKdqWIEbhA9Kao.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Vl8xVBlZ1ZagjaKdqWIEbhA9Kao-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Vl8xVBlZ1ZagjaKdqWIEbhA9Kao.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Vl8xVBlZ1ZagjaKdqWIEbhA9Kao.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vxQojm3CWYztdP8U3OkVFJt5Sk.jpg?scale-down-to=1024&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vxQojm3CWYztdP8U3OkVFJt5Sk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vxQojm3CWYztdP8U3OkVFJt5Sk.jpg?scale-down-to=2048&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vxQojm3CWYztdP8U3OkVFJt5Sk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vxQojm3CWYztdP8U3OkVFJt5Sk.jpg?scale-down-to=512&width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vxQojm3CWYztdP8U3OkVFJt5Sk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vxQojm3CWYztdP8U3OkVFJt5Sk.jpg?width=2400&height=1600
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\vxQojm3CWYztdP8U3OkVFJt5Sk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/VXxXeXASoNwOefTWGHpXIsO1NI.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\VXxXeXASoNwOefTWGHpXIsO1NI-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/VXxXeXASoNwOefTWGHpXIsO1NI.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\VXxXeXASoNwOefTWGHpXIsO1NI-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/VXxXeXASoNwOefTWGHpXIsO1NI.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\VXxXeXASoNwOefTWGHpXIsO1NI.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/waXMwybZCrtLhQF8PoehmMpYK0.svg?width=27&height=16
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\waXMwybZCrtLhQF8PoehmMpYK0.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/WCH85uZrlbVyEjXepxaYaoISrCU.jpg?scale-down-to=1024&width=1500&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\WCH85uZrlbVyEjXepxaYaoISrCU-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/WCH85uZrlbVyEjXepxaYaoISrCU.jpg?scale-down-to=512&width=1500&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\WCH85uZrlbVyEjXepxaYaoISrCU-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/WCH85uZrlbVyEjXepxaYaoISrCU.jpg?width=1500&height=1125
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\WCH85uZrlbVyEjXepxaYaoISrCU.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/WmjogG9PpSDwNsbc3oVRiK8g.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\WmjogG9PpSDwNsbc3oVRiK8g-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/WmjogG9PpSDwNsbc3oVRiK8g.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\WmjogG9PpSDwNsbc3oVRiK8g-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/WmjogG9PpSDwNsbc3oVRiK8g.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\WmjogG9PpSDwNsbc3oVRiK8g.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/WU1tI1NcERsTdxi9V2RDzqFX5Dg.png?width=500&height=500
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\WU1tI1NcERsTdxi9V2RDzqFX5Dg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/XBuu6PzlQvMo4sZqJdyInXpCyU.png?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\XBuu6PzlQvMo4sZqJdyInXpCyU.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/XCyXFPajirSxUjSx3KpaszFHfA0.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\XCyXFPajirSxUjSx3KpaszFHfA0-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/XCyXFPajirSxUjSx3KpaszFHfA0.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\XCyXFPajirSxUjSx3KpaszFHfA0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/XCyXFPajirSxUjSx3KpaszFHfA0.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\XCyXFPajirSxUjSx3KpaszFHfA0.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/xGDf8cpFuOCFebIpiryy8tB5oLc.svg?width=168&height=41
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\xGDf8cpFuOCFebIpiryy8tB5oLc.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/XnmtQbYyk2rM7ZjInjnvC1nII.svg?width=186&height=41
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\XnmtQbYyk2rM7ZjInjnvC1nII.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/xpewzGFVoJkIlHEfWfNdHbdzm50.png?scale-down-to=512&width=1000&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\xpewzGFVoJkIlHEfWfNdHbdzm50-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/xpewzGFVoJkIlHEfWfNdHbdzm50.png?width=1000&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\xpewzGFVoJkIlHEfWfNdHbdzm50.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/YBar2l4vxQm0Ar6yqiWKlFOc1Q.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\YBar2l4vxQm0Ar6yqiWKlFOc1Q.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/Yl2WxMJfWLcE6O1N6nY4m7ZLgCI.webp?width=128&height=128
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Yl2WxMJfWLcE6O1N6nY4m7ZLgCI.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/ymtmSyuSQsus6jW1ogohZL071pg.jpg?scale-down-to=1024&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ymtmSyuSQsus6jW1ogohZL071pg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ymtmSyuSQsus6jW1ogohZL071pg.jpg?scale-down-to=512&width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ymtmSyuSQsus6jW1ogohZL071pg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ymtmSyuSQsus6jW1ogohZL071pg.jpg?width=1500&height=844
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ymtmSyuSQsus6jW1ogohZL071pg.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/yUxZIY75PORbzAxnH1NDs97SE.jpg?scale-down-to=1024&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\yUxZIY75PORbzAxnH1NDs97SE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/yUxZIY75PORbzAxnH1NDs97SE.jpg?scale-down-to=512&width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\yUxZIY75PORbzAxnH1NDs97SE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/yUxZIY75PORbzAxnH1NDs97SE.jpg?width=1500&height=1000
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\yUxZIY75PORbzAxnH1NDs97SE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Z9Ula4l8bCxaFSacoOt0WnZg.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Z9Ula4l8bCxaFSacoOt0WnZg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Z9Ula4l8bCxaFSacoOt0WnZg.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Z9Ula4l8bCxaFSacoOt0WnZg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Z9Ula4l8bCxaFSacoOt0WnZg.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Z9Ula4l8bCxaFSacoOt0WnZg.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/zOv7YSQ1GoXJOH2AvnKeDfMdk.jpg?scale-down-to=1024&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\zOv7YSQ1GoXJOH2AvnKeDfMdk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/zOv7YSQ1GoXJOH2AvnKeDfMdk.jpg?scale-down-to=512&width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\zOv7YSQ1GoXJOH2AvnKeDfMdk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/zOv7YSQ1GoXJOH2AvnKeDfMdk.jpg?width=1920&height=1280
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\zOv7YSQ1GoXJOH2AvnKeDfMdk.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Zs1nCN8NrPcoLPLrEJQleQ3lfII.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Zs1nCN8NrPcoLPLrEJQleQ3lfII-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Zs1nCN8NrPcoLPLrEJQleQ3lfII.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Zs1nCN8NrPcoLPLrEJQleQ3lfII-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Zs1nCN8NrPcoLPLrEJQleQ3lfII.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Zs1nCN8NrPcoLPLrEJQleQ3lfII.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/ZwCmLun4Ktc8Vu2QN8XeTkLz4Mg.png?scale-down-to=512&width=1000&height=700
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ZwCmLun4Ktc8Vu2QN8XeTkLz4Mg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ZwCmLun4Ktc8Vu2QN8XeTkLz4Mg.png?width=1000&height=700
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\ZwCmLun4Ktc8Vu2QN8XeTkLz4Mg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Zx6zo1tflhAr2uC12Ajn6aNCwmo.jpg?scale-down-to=1024&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Zx6zo1tflhAr2uC12Ajn6aNCwmo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Zx6zo1tflhAr2uC12Ajn6aNCwmo.jpg?scale-down-to=512&width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Zx6zo1tflhAr2uC12Ajn6aNCwmo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Zx6zo1tflhAr2uC12Ajn6aNCwmo.jpg?width=2000&height=1333
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\images\Zx6zo1tflhAr2uC12Ajn6aNCwmo.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/-K-UTXI3LDCJYF2mXjGIljtH2N_JQCkpl7HZpoBIoOo.Cbh6OLqj.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\-K-UTXI3LDCJYF2mXjGIljtH2N_JQCkpl7HZpoBIoOo.Cbh6OLqj.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/14oA3abAXTfIhmuB5LDe5CQiQR_CKL8qf3mzZWoBAng.BfADZlSP.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\14oA3abAXTfIhmuB5LDe5CQiQR_CKL8qf3mzZWoBAng.BfADZlSP.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/3pi2kZoUX--HSh_Haa4MFAhXtD7lDWYErdKNrqfBdOo.CzV26Q_Q.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\3pi2kZoUX--HSh_Haa4MFAhXtD7lDWYErdKNrqfBdOo.CzV26Q_Q.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/4H7YSOabNZmh3fbG5WbVJh65m_-y3kTthaZWHFSuZwM.D7oR2Ens.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\4H7YSOabNZmh3fbG5WbVJh65m_-y3kTthaZWHFSuZwM.D7oR2Ens.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/7g6z4-1GhEwsVgw8v76ryM1zavkSzRN4aZ86D8Yi9xU.C-8ifMQH.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\7g6z4-1GhEwsVgw8v76ryM1zavkSzRN4aZ86D8Yi9xU.C-8ifMQH.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/7kH7SrB_q9s_cSl3qRlhNMjtzNHY-ERfiHU3j7Ea-tQ.kD5IjFh_.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\7kH7SrB_q9s_cSl3qRlhNMjtzNHY-ERfiHU3j7Ea-tQ.kD5IjFh_.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/a7G66c6U0.BxIDdeOw.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\a7G66c6U0.BxIDdeOw.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/augiA20Il.Cc0aLZJo.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\augiA20Il.Cc0aLZJo.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/AvoidLayoutJumping_Prod.wNrneCCN.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\AvoidLayoutJumping_Prod.wNrneCCN.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/BdGzY56cB.KgtPIa6r.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\BdGzY56cB.KgtPIa6r.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/BlXHV0nJ3.BbLB5PfL.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\BlXHV0nJ3.BbLB5PfL.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/C0aOv6EGv.DamVplHD.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\C0aOv6EGv.DamVplHD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/C9ejW4Wod.Cbn4JsTs.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\C9ejW4Wod.Cbn4JsTs.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/cZ9m3eAcV.D3pL3rQk.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\cZ9m3eAcV.D3pL3rQk.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/dJ_vHqpTO.Dt8lBBYw.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\dJ_vHqpTO.Dt8lBBYw.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/dlbPJcwxE.Dlu8lWV1.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\dlbPJcwxE.Dlu8lWV1.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/DLow5hkFIxLic3sb6GfefbZyNRjTzZUglF3YhcuahRs.B2ka8VHG.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\DLow5hkFIxLic3sb6GfefbZyNRjTzZUglF3YhcuahRs.B2ka8VHG.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/DMEZgpTpZ.9y5J19qF.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\DMEZgpTpZ.9y5J19qF.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/DMEZgpTpZ.DvUWALmD.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\DMEZgpTpZ.DvUWALmD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/DwZ-7KHzsXkZfGSSBomhWfxBr2R1LdNGOVUo85hQ2s0.CXqFv5Tu.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\DwZ-7KHzsXkZfGSSBomhWfxBr2R1LdNGOVUo85hQ2s0.CXqFv5Tu.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/EC8cZSuP_.Bc1SeRM6.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\EC8cZSuP_.Bc1SeRM6.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/eDwO7AW0Z.CgNY4LQV.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\eDwO7AW0Z.CgNY4LQV.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/framer.BZMqDcFy.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\framer.BZMqDcFy.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/G96fivl0b.D6mdT9mX.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\G96fivl0b.D6mdT9mX.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/gcbZuRvRNVTDfkhHHw35Uhvp8cv_fCmuLZwF8uh7JBo.BFCbTZKY.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\gcbZuRvRNVTDfkhHHw35Uhvp8cv_fCmuLZwF8uh7JBo.BFCbTZKY.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/GefuHHBlh.kMbnXsop.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\GefuHHBlh.kMbnXsop.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/Heq8zhqlp9_Hong4aDsWtwxAIvdahtWINyOsx8Oimkw.DZE2CKlf.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\Heq8zhqlp9_Hong4aDsWtwxAIvdahtWINyOsx8Oimkw.DZE2CKlf.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/HsEFFUMGP.CHxa9CS0.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\HsEFFUMGP.CHxa9CS0.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/HVVDVn8nH.C6DhfWpW.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\HVVDVn8nH.C6DhfWpW.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/I31t3R_j7.Jz55ssom.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\I31t3R_j7.Jz55ssom.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/I8uvgQytK.CIzDFbZ0.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\I8uvgQytK.CIzDFbZ0.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/iIc6WOXuA.CsLRy02n.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\iIc6WOXuA.CsLRy02n.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/IVx28YS9k.FjiPj98y.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\IVx28YS9k.FjiPj98y.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/jamw9DNwe.94Bd1Uf8.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\jamw9DNwe.94Bd1Uf8.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/jQJiM25ig.Ck-qnPWI.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\jQJiM25ig.Ck-qnPWI.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/JttKPdDQR.BFAGgPZo.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\JttKPdDQR.BFAGgPZo.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/L7_JnZ0vN.DQ-7ERCf.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\L7_JnZ0vN.DQ-7ERCf.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/LS14AQfRK.C5TtLWoo.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\LS14AQfRK.C5TtLWoo.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/M3EUc4tOB.BjrOxcVN.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\M3EUc4tOB.BjrOxcVN.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/m5qfOytcj.liuGPPv5.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\m5qfOytcj.liuGPPv5.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/mHEbOo1vR.BLaNWrjs.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\mHEbOo1vR.BLaNWrjs.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/motion.BldsHJ6d.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\motion.BldsHJ6d.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/n0QYNduoX.B8yi_ScB.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\n0QYNduoX.B8yi_ScB.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/n80He6enw.BjdnHVYW.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\n80He6enw.BjdnHVYW.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/npesQSSv6.CZcAqmmV.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\npesQSSv6.CZcAqmmV.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/oay3wiQmi.BwOmChOZ.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\oay3wiQmi.BwOmChOZ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/OLCVKosaL.IIEzN-Hh.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\OLCVKosaL.IIEzN-Hh.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/P1lz5d3m2.nXhXZrmM.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\P1lz5d3m2.nXhXZrmM.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/PbX_DRKh1.9sC8TTbz.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\PbX_DRKh1.9sC8TTbz.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/pS_PjM24R0TsNPrdorjNHXVH_Zv7kzbe0vk0hm8KDNo.D3kEvv5u.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\pS_PjM24R0TsNPrdorjNHXVH_Zv7kzbe0vk0hm8KDNo.D3kEvv5u.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/Q2wV8l-FdDrPoYhQpuKCHV93TE41wXAeVcqI8zYugv8.BN7tA3az.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\Q2wV8l-FdDrPoYhQpuKCHV93TE41wXAeVcqI8zYugv8.BN7tA3az.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/q6faZ6BVa.mFme-dKi.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\q6faZ6BVa.mFme-dKi.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/Q6vJRBrD0IS-ArM9z7VCilPRcV4hYFSK-SFRoJy4b6o.CUgovkMF.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\Q6vJRBrD0IS-ArM9z7VCilPRcV4hYFSK-SFRoJy4b6o.CUgovkMF.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/qffldepQ2.Ow9BuOic.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\qffldepQ2.Ow9BuOic.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/QO1QJgf3RtU89s_g-x9ZtIRWxge6_J-GjIMBPol6FOs.Dv_na9mS.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\QO1QJgf3RtU89s_g-x9ZtIRWxge6_J-GjIMBPol6FOs.Dv_na9mS.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/QXn4ma6bjzx9tO692RpG9e0-DXUL_ut1K6qZQyRkad8.DWFm1zbJ.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\QXn4ma6bjzx9tO692RpG9e0-DXUL_ut1K6qZQyRkad8.DWFm1zbJ.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/QyiaahCdN.18TG1Dmb.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\QyiaahCdN.18TG1Dmb.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/R0uPxovAH.gLhCrKJO.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\R0uPxovAH.gLhCrKJO.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/rasnzhAX1.DAS5Kac_.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\rasnzhAX1.DAS5Kac_.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/react.B00qeQCF.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\react.B00qeQCF.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/rolldown-runtime.DQa0iOq8.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\rolldown-runtime.DQa0iOq8.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/script_main.BjRai7gT.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\script_main.BjRai7gT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/shared-lib.BkI-Hgw6.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\shared-lib.BkI-Hgw6.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/SkQ5Ji2qC.C81ijw8X.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\SkQ5Ji2qC.C81ijw8X.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/T4RbeYyq7NN9jqkY9BNoDmaVtzte9wBgSqU8W-9_So4.CKU2UPq6.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\T4RbeYyq7NN9jqkY9BNoDmaVtzte9wBgSqU8W-9_So4.CKU2UPq6.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/t6a6nSLaR.BXCSuUH_.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\t6a6nSLaR.BXCSuUH_.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/tJE1kjZK2nyvYNjHxFQmjlTopyJudSLfy6HHgVciw6E.QUoTSC_r.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\tJE1kjZK2nyvYNjHxFQmjlTopyJudSLfy6HHgVciw6E.QUoTSC_r.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/TuxVRkZ7S.CHxYgsn2.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\TuxVRkZ7S.CHxYgsn2.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/TX2s4ka3j.Cwfvm_Pr.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\TX2s4ka3j.Cwfvm_Pr.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/uOeK2kjpK.yQQ5W0Jr.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\uOeK2kjpK.yQQ5W0Jr.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/UTULiQGYd.BDIbm9ng.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\UTULiQGYd.BDIbm9ng.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/vd98sgLXD.CNu_avhb.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\vd98sgLXD.CNu_avhb.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/WC7x0vJCT.CXx8Xcdd.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\WC7x0vJCT.CXx8Xcdd.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/wlNLZohct.BIWdxYnW.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\wlNLZohct.BIWdxYnW.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/WPdKztLeY.BzTtB-AK.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\WPdKztLeY.BzTtB-AK.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/WweSoEHb3.DELYTZ14.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\WweSoEHb3.DELYTZ14.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/XXrzXwsDS.CLRj9Y7v.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\XXrzXwsDS.CLRj9Y7v.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/yBmOwQqc6.B4xNrQHs.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\yBmOwQqc6.B4xNrQHs.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/YFtoqNGbb.MW58WpM7.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\YFtoqNGbb.MW58WpM7.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/YrH2tzL_Vfg9h-5wMZF9QY8JV2mxfsaTzInjRuyvzb0.BhhaI2k5.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\YrH2tzL_Vfg9h-5wMZF9QY8JV2mxfsaTzInjRuyvzb0.BhhaI2k5.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/yuPEG5UzW.-TBHkYII.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\yuPEG5UzW.-TBHkYII.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/YV0sbNOIZ.BTkN61a1.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\YV0sbNOIZ.BTkN61a1.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/5zzQXhEknZ0tX0DTYXwHK6/ZpiqizgA0.CXom1WPA.mjs
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\sites\5zzQXhEknZ0tX0DTYXwHK6\ZpiqizgA0.CXom1WPA.mjs
+Content Type: text/javascript
+
+Uri: https://machin-template.framer.website/
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\index.htm
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/about-us
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\about-us.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/blog
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\blog.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/blog/enhancing-industrial-logistics-with-amr-automation
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\blog\enhancing-industrial-logistics-with-amr-automation.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/blog/equipment-selection-for-heavy-duty-operations
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\blog\equipment-selection-for-heavy-duty-operations.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/blog/future-of-e-comm-fulfillment-speed-meets-scalability
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\blog\future-of-e-comm-fulfillment-speed-meets-scalability.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/blog/how-automation-transforms-modern-warehousing
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\blog\how-automation-transforms-modern-warehousing.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/blog/load-capacity-vs.-actual-output-what-matters-most
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\blog\load-capacity-vs.-actual-output-what-matters-most.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/blog/reducing-downtime-in-heavy-industrial-operations
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\blog\reducing-downtime-in-heavy-industrial-operations.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/clients
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\clients.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/contact-us
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\contact-us.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/equipment
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\equipment.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/equipment/conveyor-systems
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\equipment\conveyor-systems.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/equipment/forklifts
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\equipment\forklifts.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/equipment/industrial-cranes
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\equipment\industrial-cranes.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/equipment/loader-systems
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\equipment\loader-systems.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/equipment/pallet-handling
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\equipment\pallet-handling.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/equipment/storage-systems
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\equipment\storage-systems.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/faq
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\faq.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/industries
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\industries.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/industries/construction
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\industries\construction.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/industries/e-commerce-fulfillment
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\industries\e-commerce-fulfillment.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/industries/heavy-industry
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\industries\heavy-industry.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/industries/industrial-manufacture
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\industries\industrial-manufacture.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/industries/infrastructure-utilities
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\industries\infrastructure-utilities.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/industries/warehousing-logistics
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\industries\warehousing-logistics.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/leadership
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\leadership.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/leasing
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\leasing.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/pricing
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\pricing.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/projects
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\projects.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/projects/automated-pallet-handling-system-for-regional-center
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\projects\automated-pallet-handling-system-for-regional-center.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/projects/conveyor-integration-for-ecommerce-center
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\projects\conveyor-integration-for-ecommerce-center.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/projects/crane-installation-for-construction-projects
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\projects\crane-installation-for-construction-projects.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/projects/custom-high-capacity-handling-line
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\projects\custom-high-capacity-handling-line.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/projects/manufacturing-facility-material-flow-upgrade
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\projects\manufacturing-facility-material-flow-upgrade.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/projects/warehouse-conveyor-expansion-project
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\projects\warehouse-conveyor-expansion-project.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/services
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\services.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/services/consulting-system-design
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\services\consulting-system-design.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/services/custom-built-equipment
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\services\custom-built-equipment.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/services/engineering-design
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\services\engineering-design.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/services/installation-activation
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\services\installation-activation.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/services/maintenance-support
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\services\maintenance-support.html
+Content Type: text/html
+
+Uri: https://machin-template.framer.website/services/manufacture-assembly
+File Name: C:\Users\ucs_bnl\Downloads\Machine\machin-template.framer.website\services\manufacture-assembly.html
+Content Type: text/html
+
